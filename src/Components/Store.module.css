@@ -1,0 +1,16 @@
+.containor {
+    max-width: 1300px;
+    width: 100%;
+    margin: auto;
+  }
+  .card {
+    flex: 0 0 calc(48.33% - 40px);
+    max-width: calc(48.33% - 40px);
+    width: 100%;
+    background-color: aliceblue;
+    border-radius: 10px;
+    padding: 20px;
+    margin-bottom: 20px;
+    transition: .3s;
+    border: 2px solid transparent;
+  }

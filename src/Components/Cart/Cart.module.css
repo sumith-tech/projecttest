@@ -1,0 +1,26 @@
+.row{
+    display: flex;
+}
+.item{
+    padding-left: 2em;
+}
+.price{
+    padding-left: 8em;
+}
+.qty{
+    padding-left: 6em;
+}
+.btn{
+    position: absolute;
+    cursor: pointer;
+    color: rgb(121, 117, 117);
+    top: 0;
+    right: 0;
+    margin: 20px;
+    background: none;
+    font-size: 16px;
+    font-weight: 700;
+    border: 1px solid rgb(121, 117, 117);
+    border-radius: 7px;
+    padding: 5px;
+}
